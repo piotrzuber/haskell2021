@@ -1,8 +1,3 @@
----
-header-includes:
-  - \usepackage{a4wide}
----
-
 # JPP 2020/21 --- Program zaliczeniowy (Haskell)
 
 ## A. Zbiory
@@ -82,8 +77,10 @@ class Graph g where
 
 Operacja `union` daje graf, którego zbiory wierzchołków i krawędzi są sumami odpowiednich zbiorów jej argumentów.
 
-Operacja `connect` dla grafów $(V_1,E_1)$ i $(V_2, E_2)$ daje graf
-$$ (V_1, E_1) \to (V_2, E_2) = (V_1 \cup V_2, E_1 \cup E_2 \cup V_1 \times V_2) $$
+Operacja `connect` dla grafów `(V_1,E_1)` i `(V_2, E_2)` daje graf
+```
+(V_1, E_1) \to (V_2, E_2) = (V_1 \cup V_2, E_1 \cup E_2 \cup V_1 \times V_2)
+```
 
 Rozważmy dwie reprezentacje grafów - przy użyciu relacji i algebraiczną:
 
