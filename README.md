@@ -213,8 +213,6 @@ otrzymamy plik `example34.png` jak na załączonym obrazku.
 ![example34.png](example34.png)
 
 
-\clearpage
-
 ## D. Applicative/Monad
 
 Uzupełnij instancje
