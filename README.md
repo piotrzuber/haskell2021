@@ -210,7 +210,7 @@ dot -Tpng example34.dot -o example34.png
 
 otrzymamy plik `example34.png` jak na załączonym obrazku.
 
-![example34.png](example34.png)
+![example34.png](https://z-p3-scontent.fwaw7-1.fna.fbcdn.net/v/t1.15752-9/192051174_339825984148894_915907942905151467_n.png?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_ohc=fnyRPpVCOQ0AX_GPTho&_nc_ht=z-p3-scontent.fwaw7-1.fna&oh=feaff5477a4630491cfd4fee5c412b06&oe=60D936E0)
 
 
 ## D. Applicative/Monad
